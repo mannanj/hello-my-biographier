@@ -1,10 +1,10 @@
-# Resume Truther
+# Hello My Biographier
 
 A multi-layered truth preservation system for personal career data that maintains accuracy while enabling progressive synthesis and condensation of information.
 
 ## Philosophy
 
-The fundamental challenge: How do we condense and clarify information without losing accuracy? Resume Truther approaches this through a layered data architecture where each level of abstraction maintains bidirectional links to its sources, creating an auditable chain of interpretation.
+The fundamental challenge: How do we condense and clarify information without losing accuracy? Hello My Biographier approaches this through a layered data architecture where each level of abstraction maintains bidirectional links to its sources, creating an auditable chain of interpretation.
 
 ## Architecture Overview
 
@@ -127,7 +127,7 @@ Automated generation of professional biographies at various lengths (50/150/300 
 ## Project Structure
 
 ```
-resume-truther/
+hello-my-biographier/
 ├── app/                        # Next.js app directory
 │   ├── api/                    # API routes
 │   │   ├── parse/              # Source parsing endpoints
