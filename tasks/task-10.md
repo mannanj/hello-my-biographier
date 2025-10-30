@@ -1,0 +1,14 @@
+### Task 10: Source Layer Implementation (Layer 1)
+- [ ] Create document upload UI component (`app/upload/page.tsx`)
+- [ ] Implement file upload handler with drag-and-drop support
+- [ ] Create PDF parser (`lib/parsers/pdf.ts`)
+- [ ] Create DOCX parser (`lib/parsers/docx.ts`)
+- [ ] Create TXT parser (`lib/parsers/txt.ts`)
+- [ ] Implement source text extraction logic (`lib/parsers/extractor.ts`)
+- [ ] Create source storage utility (`lib/storage/sources.ts`)
+- [ ] Build source management API endpoint (`app/api/parse/route.ts`)
+- [ ] Implement source validation against TypeScript types
+- [ ] Create source list/view UI component (`app/sources/page.tsx`)
+- [ ] Add error handling for unsupported file types
+- [ ] Test with sample PDF, DOCX, and TXT files
+- Location: `app/upload/`, `app/sources/`, `app/api/parse/`, `lib/parsers/`, `lib/storage/`
