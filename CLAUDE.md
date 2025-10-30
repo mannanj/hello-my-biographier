@@ -207,7 +207,7 @@ This project leverages Claude Sonnet 4.5 for:
 ### Styling Guidelines
 - **Tailwind CSS v4**: Use Tailwind utility classes
 - **PostCSS configuration**: Custom CSS in `app/globals.css` only when necessary
-- **Dark mode**: Support dark mode throughout the application
+- **Light mode only**: Single consistent visual experience, warm and human-centered
 - **Responsive design**: Mobile-first approach
 
 ## Testing & Quality
