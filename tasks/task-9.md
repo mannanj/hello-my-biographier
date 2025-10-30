@@ -1,11 +1,11 @@
 ### Task 9: Environment & Foundation Setup
-- [ ] Install npm dependencies
-- [ ] Create `.env.local` with ANTHROPIC_API_KEY placeholder
-- [ ] Create data directory structure (`data/sources/`, `data/interpreted/`, `data/synthesized/`)
-- [ ] Define TypeScript types for Source layer (`types/source.ts`)
-- [ ] Define TypeScript types for Interpretation layer (`types/interpretation.ts`)
-- [ ] Define TypeScript types for Synthesis layer (`types/synthesis.ts`)
-- [ ] Verify Next.js configuration is correct
-- [ ] Verify Tailwind CSS v4 configuration
-- [ ] Create `.gitignore` entries for `.env.local` and `data/` directories
+- [x] Install npm dependencies
+- [x] Create `.env.local` with ANTHROPIC_API_KEY placeholder
+- [x] Create data directory structure (`data/sources/`, `data/interpreted/`, `data/synthesized/`)
+- [x] Define TypeScript types for Source layer (`types/source.ts`)
+- [x] Define TypeScript types for Interpretation layer (`types/interpretation.ts`)
+- [x] Define TypeScript types for Synthesis layer (`types/synthesis.ts`)
+- [x] Verify Next.js configuration is correct
+- [x] Verify Tailwind CSS v4 configuration
+- [x] Create `.gitignore` entries for `.env.local` and `data/` directories
 - Location: `package.json`, `.env.local`, `data/`, `types/`, `tailwind.config.ts`, `.gitignore`
